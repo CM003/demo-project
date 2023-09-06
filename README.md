@@ -1,3 +1,3 @@
 # demo-project
 This is my first Git Repository
-Author - CM
+Author - CM (Apna College)
